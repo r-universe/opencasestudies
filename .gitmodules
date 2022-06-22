@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "OCSdata"]
+	path = OCSdata
+	url = https://github.com/opencasestudies/ocsdata
+	shallow = true
+	registered = true
